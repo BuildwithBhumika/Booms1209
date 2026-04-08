@@ -1,3 +1,6 @@
+
+ ![Banner](github-header-banner.png)
+
 # Hi, I'm Bhumika 👋
 
 🎓 B.Tech CSE Student  
@@ -13,6 +16,8 @@
 - Python
 - Git & GitHub
 - Machine Learning (Beginner)
+- Java
+- C++
 
 ---
 
@@ -20,6 +25,7 @@
 - Build real-world AI/ML projects
 - Contribute to open source
 - Become internship-ready
+- Learning DSA
 
 ---
 
