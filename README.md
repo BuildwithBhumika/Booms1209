@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Bhumika 👋
 
-<!--
-**Booms1209/Booms1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Aspiring AI/ML & Full Stack Developer  
+🚀 Currently learning Data Science and building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+- Machine Learning (Beginner)
+
+---
+
+## 📌 Current Goals
+- Build real-world AI/ML projects
+- Contribute to open source
+- Become internship-ready
+
+---
+
+## 📂 Featured Projects
+Coming soon...
+
+---
+
+## 📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/bhumika-chauhan-91775a1b3
